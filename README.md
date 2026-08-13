@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Tianxiang Jiang (姜天翔) 🐘
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=54jmoNYAAAAJ&hl=zh-CN)
-[![Citations](https://api.juleskreuer.eu/citation-badge.php?shield&myuserid=54jmoNYAAAAJ)](https://scholar.google.com/citations?user=54jmoNYAAAAJ&hl=zh-CN)
+![Google Scholar citations](https://img.shields.io/badge/dynamic/json?label=Scholar%20Citations&color=4285F4&query=%24.total_citations&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FArsiuuu%2FUnblock-Google-Scholar-Action%40metadata%2Fdata%2Ftotal_citations.json)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Eurayka-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Eurayka)
 
 I am currently a Ph.D. student at **[USTC](https://www.ustc.edu.cn/)**, working with **[Shanghai AI Lab](https://www.shlab.org.cn/)**.
 
