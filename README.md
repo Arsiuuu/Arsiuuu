@@ -6,4 +6,4 @@ I am currently a Ph.D. student at **[USTC](https://www.ustc.edu.cn/)** (expected
 
 My research focuses on **Multimodal Large Language Models (MLLMs)** and **video understanding**.
 
-For any collaborations and opportunities, feel free to contact me via email: jtx@mail.ustc.edu.cn. 😊
+For any collaborations and internship opportunities, feel free to contact me via email: jtx@mail.ustc.edu.cn. 😊
